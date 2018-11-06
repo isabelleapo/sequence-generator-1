@@ -1,1 +1,1 @@
-# FD-2018
+# Used to generate binary co-polymer sequence isomers in <link>
